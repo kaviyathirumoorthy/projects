@@ -6,6 +6,7 @@ s_u1=0
 s_u=0
 while(start):
     print(user)
+    
     print("give the input as 0 1 2 which indicates stone, paper and scissor")
     k=int(input())
     u1=random.randrange(0,3)
